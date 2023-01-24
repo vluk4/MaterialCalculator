@@ -6,7 +6,6 @@ import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material3.MaterialTheme
 import com.vluk4.materialcalculator.domain.CalculatorAction
 import com.vluk4.materialcalculator.domain.Operation
-import com.vluk4.materialcalculator.presentation.CalculatorUiAction.HighlightLevel
 
 val calculatorActions = listOf(
     CalculatorUiAction(
